@@ -1,0 +1,12 @@
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\LabelAssignment\LabelAssignment\bin\Debug\LabelAssignment.exe.config
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\LabelAssignment\LabelAssignment\bin\Debug\LabelAssignment.exe
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\LabelAssignment\LabelAssignment\bin\Debug\LabelAssignment.pdb
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\LabelAssignment\LabelAssignment\obj\Debug\LabelAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\LabelAssignment\LabelAssignment\obj\Debug\LabelAssignment.frmMain.resources
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\LabelAssignment\LabelAssignment\obj\Debug\LabelAssignment.Properties.Resources.resources
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\LabelAssignment\LabelAssignment\obj\Debug\LabelAssignment.csproj.GenerateResource.Cache
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\LabelAssignment\LabelAssignment\obj\Debug\LabelAssignment.exe
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\LabelAssignment\LabelAssignment\obj\Debug\LabelAssignment.pdb
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\LabelAlignment\LabelAssignment\bin\Debug\LabelAssignment.exe.config
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\LabelAlignment\LabelAssignment\obj\Debug\LabelAssignment.exe
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\LabelAlignment\LabelAssignment\obj\Debug\LabelAssignment.pdb
